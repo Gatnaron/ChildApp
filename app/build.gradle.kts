@@ -71,4 +71,6 @@ dependencies {
     debugImplementation(libs.androidx.ui.test.manifest)
     implementation("com.journeyapps:zxing-android-embedded:4.2.0")
     implementation("com.google.zxing:core:3.4.1")
+    implementation ("androidx.work:work-runtime-ktx:2.7.1")
+    implementation ("com.yandex.android:maps.mobile:4.3.1-full")
 }
