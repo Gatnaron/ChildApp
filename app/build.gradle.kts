@@ -9,7 +9,7 @@ android {
 
     defaultConfig {
         applicationId = "com.example.childapp"
-        minSdk = 24
+        minSdk = 26
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
@@ -73,4 +73,5 @@ dependencies {
     implementation("com.google.zxing:core:3.4.1")
     implementation ("androidx.work:work-runtime-ktx:2.7.1")
     implementation ("com.yandex.android:maps.mobile:4.3.1-full")
+    implementation ("androidx.work:work-runtime-ktx:2.7.1")
 }
