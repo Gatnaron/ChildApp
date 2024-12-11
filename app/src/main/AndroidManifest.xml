@@ -22,7 +22,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".QRCodeActivity"
+            android:name=".UUIDCodeActivity"
             android:theme="@style/Theme.AppCompat.NoActionBar"
             android:exported="true">
         </activity>

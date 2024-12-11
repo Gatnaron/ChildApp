@@ -74,4 +74,6 @@ dependencies {
     implementation ("androidx.work:work-runtime-ktx:2.7.1")
     implementation ("com.yandex.android:maps.mobile:4.3.1-full")
     implementation ("androidx.work:work-runtime-ktx:2.7.1")
+    implementation("com.google.android.gms:play-services-location:21.0.1")
+
 }
